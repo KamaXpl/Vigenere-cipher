@@ -3,7 +3,6 @@
 
 <body>
     <H1>Szyfr Vigenere'a</H1>  
-    <hr>
     <H2>Jak uruchomić? </H2>
     <H4>Aby uruchomić aplikację, potrzebujesz zainstalować następujące komponenty:</H4>
     <p>
