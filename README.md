@@ -1,11 +1,19 @@
-# <H1>Vigenere-cipher</H1>
+<!DOCTYPE html>
+<html lang="pl">
 
-# Jak uruchomić
-Aby uruchomić aplikację, potrzebujesz zainstalować następujące komponenty:
-```
-1. Otwórz Terminal/Command Prompt i wpisz lokalizację pliku.<br>
-2. Wpisz python Vigenere_Cipher.py i naciśnij Enter.<br>
-3. Wybierz czy chcesz ekryptować czy dekryptować.<br>
-```
-# Funkcje
+<body>
+    <H1>Szyfr Vigenere'a</H1>  
+    <hr>
+    <H2>Jak uruchomić? </H2>
+    <H4>Aby uruchomić aplikację, potrzebujesz zainstalować następujące komponenty:</H4>
+    <p>
+        <ol>
+            <li>Otwórz Terminal/Command Prompt i wpisz lokalizację pliku.</li>
+            <li>Wpisz python Vigenere_Cipher.py i naciśnij Enter.</li>
+            <li>Wybierz czy chcesz ekryptować czy dekryptować.</li>
+        </ol>
+    </p>
 
+    
+</body>
+</html>
