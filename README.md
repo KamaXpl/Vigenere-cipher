@@ -18,11 +18,6 @@
             <li>Szyfrowanie Vigenère'a: Funkcja vigenere_encrypt(plaintext, key) przyjmuje tekst jawny i klucz, a następnie zwraca zaszyfrowaną wiadomość.</li>
             <li>Deszyfrowanie Vigenère'a: Funkcja vigenere_decrypt(ciphertext, key) przyjmuje szyfrogram i klucz, a następnie zwraca oryginalny tekst jawny.</li>
         </ol>
-    </p>
-    <H2>Autor </H2>
-    <p>
-        Kamila Wydra
-    </p>
-    
+    </p>    
 </body>
 </html>
