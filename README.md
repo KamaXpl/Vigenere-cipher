@@ -19,7 +19,10 @@
             <li>Deszyfrowanie Vigenère'a: Funkcja vigenere_decrypt(ciphertext, key) przyjmuje szyfrogram i klucz, a następnie zwraca oryginalny tekst jawny.</li>
         </ol>
     </p>
-    
+    <H2>Autor </H2>
+    <p>
+        Kamila Wydra
+    </p>
     
 </body>
 </html>
