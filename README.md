@@ -11,8 +11,15 @@
             <li>Wpisz python Vigenere_Cipher.py i naciśnij Enter.</li>
             <li>Wybierz czy chcesz ekryptować czy dekryptować.</li>
         </ol>
+    </p> 
+    <H2>Funkcje </H2>
+    <p>
+        <ol>
+            <li>Szyfrowanie Vigenère'a: Funkcja vigenere_encrypt(plaintext, key) przyjmuje tekst jawny i klucz, a następnie zwraca zaszyfrowaną wiadomość.</li>
+            <li>Deszyfrowanie Vigenère'a: Funkcja vigenere_decrypt(ciphertext, key) przyjmuje szyfrogram i klucz, a następnie zwraca oryginalny tekst jawny.</li>
+        </ol>
     </p>
-
+    
     
 </body>
 </html>
